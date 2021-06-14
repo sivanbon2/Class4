@@ -1,3 +1,5 @@
+package Singleton;
+
 import java.io.IOException;
 
 public interface Logger {
