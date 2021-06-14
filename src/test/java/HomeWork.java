@@ -37,8 +37,21 @@ public class HomeWork {
         Singleton.getInstance().writeToFile(scanner.next());
         System.out.println("Thanks");
 
+        //EX-4
+
         //EX-5
         //git config  --global user.email "sivanbon2@gmail.com"
         //git config  --global user.name "sivanbon2"
+        //git clone https://github.com/SeleniumHQ/selenium.git
+
+        //EX-6
+        // Repo https://github.com/sivanbon2/Class4
+
+        //EX-7
+        /*
+        * Maven is an automation and management tool developed by Apache Software Foundation.
+        * It is written in Java Language to build projects written in C#, Ruby, Scala, and other languages.
+        * It allows developers to create projects, dependency, and documentation using Project
+        *  Object Model and plugins.*/
     }
 }
