@@ -29,21 +29,21 @@ public class HomeWork {
 
         //EX-3
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter your name");
+        System.out.println("Enter name");
         Singleton.getInstance().writeToFile(scanner.next());
-        System.out.println("Enter your age");
+        System.out.println("Enter age");
         Singleton.getInstance().writeToFile(scanner.next());
-        System.out.println("Enter your address");
+        System.out.println("Enter address");
         Singleton.getInstance().writeToFile(scanner.next());
-        System.out.println("Enter your phone number");
+        System.out.println("Enter phone number");
         Singleton.getInstance().writeToFile(scanner.next());
-        System.out.println("Thanks");
+        System.out.println("Thank you");
 
         //EX-4
 
         //EX-5
-        //git config  --global user.email "sivanbon2@gmail.com"
-        //git config  --global user.name "sivanbon2"
+        //git config  --global user.email "email"
+        //git config  --global user.name "name"
         //git clone https://github.com/SeleniumHQ/selenium.git
 
         //EX-6
